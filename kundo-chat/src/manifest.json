@@ -1,0 +1,15 @@
+{
+   "id": "kundo.chat",
+   "version": "0.0.1",
+   "type": "WebApp",
+   "name": "Kundo Chat",
+   "description": "Kraftfull och smidig chatt för kundservice, försäljning och annan kunddialog direkt på hemsidan",
+   "author": "Kundo",
+   "helpUrl": "https://startaupp.kundo.se/",
+   "tags": ["chatt", "kundservice", "försäljning", "support", "kundupplevelse", "dialog"],
+   "licensingType": "free",
+   "category": "Interaktivt",
+   "policyUrl": "https://kb.kundo.se/",
+   "requiredSiteVisionVersion": "6.0",
+   "contactEmail": "support@kundo.se"
+}

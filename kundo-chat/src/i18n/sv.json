@@ -1,0 +1,18 @@
+{
+	"kundoPitch": "För att använda <a href='https://kundo.se/chat/'>Kundo Chat</a> tillsammans med SiteVision behöver ni ett abbonemang hos Kundo. Vad sägs om att börja med en demo av hur produkten fungerar, så börjar vi där? <a href='https://kundo.se/chat/'>Läs mer om Kundo Chat</a>.",
+	"settingsHeading": "Inställningar",
+	"orgId": "Organisations-id",
+	"orgIdDescription": "Organisations-id:t hittar ni i Kundo under Inställningar -> Kod att kopiera. Ni behöver inte kopiera någon kod, utan ni behöver bara det ID som står där. I koden står längst ner <em>https://static-chat.kundo.se/chat-js/org/<span style='color: red'>999</span>/widget.js</em>. Siffran strax innan widget.js är ert organisations-id.",
+	"startText": "Text på chattknappen (valfritt)",
+	"startTextDefault": "Chatta med oss",
+	"loadingText": "Text när chatten laddas (valfritt)",
+	"loadingTextDefault": "Laddar chatten...",
+	"appearanceHeading": "Utseende",
+	"textColor": "Textfärg (valfritt)",
+	"iconColor": "Ikonfärg (valfritt)",
+	"backgroundColor": "Bakgrundsfärg (valfritt)",
+	"placement": "Placering (valfritt)",
+	"placementRight": "Höger",
+	"placementLeft": "Vänster",
+	"offset": "Avstånd i pixlar (valfritt)",
+}

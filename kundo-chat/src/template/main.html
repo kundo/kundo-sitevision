@@ -1,18 +1,18 @@
 <script>
    (function(w){
       w.$kundo_chat=w.$kundo_chat||{};
-      w.$kundo_chat.org=<%= orgId %>;
+      w.$kundo_chat.org=<%- orgId %>;
       w.$kundo_chat.custom_texts = {
-         START_TEXT: '<%= startText %>',
-         LOADING_TEXT: '<%= loadingText %>'
+         START_TEXT: '<%- startText %>',
+         LOADING_TEXT: '<%- loadingText %>'
       }
       w.$kundo_chat.widget_styles = {
-         background_color: '<%= backgroundColor %>',
-         text_color: '<%= textColor %>',
-         icon_color: '<%= iconColor %>',
-         align_side: '<%= placement %>',
-         offset: '<%= offset %>px'
+         background_color: '<%- backgroundColor %>',
+         text_color: '<%- textColor %>',
+         icon_color: '<%- iconColor %>',
+         align_side: '<%- placement %>',
+         offset: '<%- offset %>px'
       };
    }(this));
  </script>
- <script src="https://static-chat.kundo.se/chat-js/org/<%= orgId %>/widget.js" async defer></script>
+ <script src="https://static-chat.kundo.se/chat-js/org/<%- orgId %>/widget.js" async defer></script>

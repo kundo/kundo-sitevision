@@ -1,5 +1,5 @@
 {
-	"kundoPitch": "För att använda <a href='https://kundo.se/chat/'>Kundo Chat</a> tillsammans med SiteVision behöver ni ett abbonemang hos Kundo. Vad sägs om att börja med en demo av hur produkten fungerar, så börjar vi där? <a href='https://kundo.se/chat/'>Läs mer om Kundo Chat</a>.",
+	"kundoPitch": "För att använda <a href='https://kundo.se/chat/'>Kundo Chat</a> tillsammans med SiteVision behöver ni ett abonnemang hos Kundo. Vad sägs om att börja med en demo av hur produkten fungerar, så börjar vi där? <a href='https://kundo.se/chat/'>Läs mer om Kundo Chat</a>.",
 	"settingsHeading": "Inställningar",
 	"orgId": "Organisations-id",
 	"orgIdDescription": "Organisations-id:t hittar ni i Kundo under Inställningar -> Kod att kopiera. Ni behöver inte kopiera någon kod, utan ni behöver bara det ID som står där. I koden står längst ner <em>https://static-chat.kundo.se/chat-js/org/<span style='color: red'>999</span>/widget.js</em>. Siffran strax innan widget.js är ert organisations-id.",

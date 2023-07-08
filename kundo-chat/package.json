@@ -2,7 +2,7 @@
   "name": "kundo-chat",
   "version": "0.0.1",
   "dependencies": {
-    "@sitevision/sitevision-scripts": "^1.0.1"
+    "@sitevision/sitevision-scripts": "^3.3.2"
   },
   "scripts": {
     "create-addon": "sitevision-scripts create-addon",
